@@ -1,0 +1,12 @@
+gradio 
+PyMuPDF 
+python-docx 
+pandas 
+openpyxl
+sentence-transformers 
+faiss-cpu
+langchain 
+sqlalchemy 
+pymysql
+langchain 
+transformers
